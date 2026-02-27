@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/Focus-Fullstack_&_AI-blue?style=for-the-badge&logo=rocket" alt="Focus" />
 </p>
 
-<!-- Animated wave -->
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!-- Animated wave emoji logic (fallback text is better than a broken image) -->
+<h2>👋 Welcome!</h2>
 
 </div>
 
@@ -32,11 +32,13 @@
       </ul>
     </td>
     <td width="45%" align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+      <!-- Replaced direct Devicon SVGs with very stable alternative skills SVGs -->
+      <img src="https://skillicons.dev/icons?i=react,nodejs,python,ts,docker,aws&perline=3" alt="My Skills" />
       <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ripredx&repo=Ripredx&theme=radical&show_owner=true" width="280">
+      <!-- Fallback pin - uses public API, should always work if repo exists, else it shows a generic card -->
+      <a href="https://github.com/Ripredx">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ripredx&repo=Ripredx&theme=radical&show_owner=true" width="280" alt="Pinned Repo">
+      </a>
     </td>
   </tr>
 </table>
@@ -49,49 +51,23 @@
   <i>(A selection of the most modern and widely-used tools in my ecosystem)</i>
 </p>
 
+<!-- Using Skillicons which are highly stable, fast, and beautiful -->
 <div align="center">
-
-### 💻 Languages
-<img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=for-the-badge" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
-<img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" alt="C#" />
-<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++" />
-<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="Go" />
-<img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" alt="Rust" />
-
-<br/>
-
-### 🌐 Frontend
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D&style=for-the-badge" alt="Vue" />
-<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" alt="Angular" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
-
-<br/>
-
-### ⚙️ Backend & DB
-<img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-404D59?logo=express&logoColor=white&style=for-the-badge" alt="Express" />
-<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" alt="Redis" />
-<img src="https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white&style=for-the-badge" alt="Prisma" />
-
-<br/>
-
-### 🔧 DevOps & AI
-<img src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux" />
-<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI" />
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,cs,cpp,go,rust" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,figma" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,mongodb,redis,prisma" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux" />
+  </a>
 </div>
 
 ---
@@ -101,27 +77,26 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ripredx&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&count_private=true" alt="Ripredx's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Ripredx&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ripredx's GitHub Stats" />
       <br>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ripredx&theme=omni&hide_border=true" alt="GitHub Streak" />
+      <!-- Streak stats is very stable -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ripredx&theme=radical&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
+      <!-- Trophies are stable -->
       <img src="https://github-profile-trophy.vercel.app/?username=Ripredx&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
     </td>
   </tr>
 </table>
 
-<!-- Snake Animation -->
+<!-- Replaced the broken snake with a reliable dynamic Activity Graph -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ripredx/Ripredx/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ripredx/Ripredx/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ripredx/Ripredx/output/github-contribution-grid-snake.svg">
-  </picture>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ripredx&theme=radical&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
